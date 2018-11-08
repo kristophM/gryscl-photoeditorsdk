@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "7392D96721925D46002F6FB9"
+               BuildableName = "PhotoEditorSDKDemo.app"
+               BlueprintName = "PhotoEditorSDKDemo"
+               ReferencedContainer = "container:PhotoEditorSDKDemo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "7392D96721925D46002F6FB9"
+            BuildableName = "PhotoEditorSDKDemo.app"
+            BlueprintName = "PhotoEditorSDKDemo"
+            ReferencedContainer = "container:PhotoEditorSDKDemo.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
